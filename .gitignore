@@ -1,0 +1,23 @@
+# IDE files
+.idea/
+.vscode/
+
+# Build artifacts
+/backend/church-homepage/build/
+/frontend/build/
+
+# Dependency directories
+/frontend/node_modules/
+
+# Log files
+*.log
+
+# Local configuration files
+/backend/church-homepage/src/main/resources/application.yml
+
+# Gemini study files
+OUR_STUDY_METHOD.md
+PROJECT.md
+
+# OS generated files
+.DS_Store
